@@ -42,7 +42,7 @@ async def csgo(ctx):
     await ctx.send('https://cdn.discordapp.com/attachments/702585932083363891/702586065307041822/BeWNB.jpg')
 
 
-
+as
 
 
 client.run('NzAyNTQyOTIwNzYyMjYxNjM1.XqBkHg.gjzjETNHYAexbHUOhmE6E7VcfWg')
